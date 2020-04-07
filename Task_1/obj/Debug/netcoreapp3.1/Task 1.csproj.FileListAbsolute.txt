@@ -1,0 +1,4 @@
+C:\projects\MyEighthConsoleApp\Task_1\obj\Debug\netcoreapp3.1\Task 1.csprojAssemblyReference.cache
+C:\projects\MyEighthConsoleApp\Task_1\obj\Debug\netcoreapp3.1\Task 1.csproj.CoreCompileInputs.cache
+C:\projects\MyEighthConsoleApp\Task_1\obj\Debug\netcoreapp3.1\Task 1.AssemblyInfoInputs.cache
+C:\projects\MyEighthConsoleApp\Task_1\obj\Debug\netcoreapp3.1\Task 1.AssemblyInfo.cs

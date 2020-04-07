@@ -1,0 +1,13 @@
+C:\projects\MyEighthConsoleApp\Task_2\bin\Debug\netcoreapp3.1\Task 2.exe
+C:\projects\MyEighthConsoleApp\Task_2\bin\Debug\netcoreapp3.1\Task 2.deps.json
+C:\projects\MyEighthConsoleApp\Task_2\bin\Debug\netcoreapp3.1\Task 2.runtimeconfig.json
+C:\projects\MyEighthConsoleApp\Task_2\bin\Debug\netcoreapp3.1\Task 2.runtimeconfig.dev.json
+C:\projects\MyEighthConsoleApp\Task_2\bin\Debug\netcoreapp3.1\Task 2.dll
+C:\projects\MyEighthConsoleApp\Task_2\bin\Debug\netcoreapp3.1\Task 2.pdb
+C:\projects\MyEighthConsoleApp\Task_2\obj\Debug\netcoreapp3.1\Task 2.csprojAssemblyReference.cache
+C:\projects\MyEighthConsoleApp\Task_2\obj\Debug\netcoreapp3.1\Task 2.csproj.CoreCompileInputs.cache
+C:\projects\MyEighthConsoleApp\Task_2\obj\Debug\netcoreapp3.1\Task 2.AssemblyInfoInputs.cache
+C:\projects\MyEighthConsoleApp\Task_2\obj\Debug\netcoreapp3.1\Task 2.AssemblyInfo.cs
+C:\projects\MyEighthConsoleApp\Task_2\obj\Debug\netcoreapp3.1\Task 2.dll
+C:\projects\MyEighthConsoleApp\Task_2\obj\Debug\netcoreapp3.1\Task 2.pdb
+C:\projects\MyEighthConsoleApp\Task_2\obj\Debug\netcoreapp3.1\Task 2.genruntimeconfig.cache
