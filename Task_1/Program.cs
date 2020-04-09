@@ -1,4 +1,4 @@
-﻿
+
 using System;
 
 namespace Task_1
@@ -23,7 +23,7 @@ namespace Task_1
 
         public double TjsCourseUSD { get; set; }
 
-        private Converter(double _usd, double _eur, double _rub)
+        public Converter(double _usd, double _eur, double _rub)
         {
             UsdCourse = _usd;
             EurCourse = _eur;
@@ -65,7 +65,7 @@ namespace Task_1
     {
         static double ReadDouble()
         {
-            return Transform.ToDouble(Console.ReadLine().Replace(".", ","));
+            return System.Convert.ToDouble(Console.ReadLine().Replace(".", ","));
         }
         static void Main(string[] args)
         {
@@ -89,7 +89,7 @@ namespace Task_1
                         string exchStr = Console.ReadLine().ToUpper();
                         Console.WriteLine("Введите сомони: ");
                         double _tjsMoney = ReadDouble();
-                        if(echStr == "EUR")
+                        if(exchStr == "EUR")
                             Console.WriteLine($"{_tjsMoney} сомони в {exchStr} = " + convert.TransformTJSTo(_tjsMoney, Converter.Exchange.EUR));
                         else if(exchStr == "USD")
                             Console.WriteLine($"{_tjsMoney} сомони в {exchStr} = " + convert.TransformTJSTo(_tjsMoney, Converter.Exchange.USD));
