@@ -7,7 +7,7 @@ namespace Task_2
     {
         public enum Positions
         {
-            Supervisor = 9000,
+            Boss = 9000,
             Manager = 4000,
             Programmer = 2000,
             JuniorManager = 1000
@@ -74,7 +74,7 @@ namespace Task_2
         public string PositionsToString()
         {
             if(EmployeePosition == Positions.Boss)
-                return "бОСС";
+                return "Босс";
             else if(EmployeePosition == Positions.Programmer)
                 return "Программист";
             else if(EmployeePosition == Positions.Manager)
